@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="638cec8c-8275-4f3b-be4b-28627ae34f74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MQOW5pS7zZ1p5igvUAKPsiA5iI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "D:/Portfolio/JavaProjects/StatsService/src/test/java"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.StatsServiceTest.testBelowAverage">
+    <configuration name="StatsServiceTest.testAboveAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StatsService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="testAboveAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.testAverageAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StatsService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="testAverageAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.testBelowAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StatsService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="testBelowAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.testMaxSalesMonth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StatsService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="testMaxSalesMonth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.testMinSalesMonth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StatsService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="testMinSalesMonth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatsServiceTest.testBelowAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.testAboveAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.testMinSalesMonth" />
+        <item itemvalue="JUnit.StatsServiceTest.testMaxSalesMonth" />
+        <item itemvalue="JUnit.StatsServiceTest.testAverageAmount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="638cec8c-8275-4f3b-be4b-28627ae34f74" name="Changes" comment="" />
+      <created>1677696370512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677696370512</updated>
+    </task>
+    <servers />
+  </component>
+</project>
